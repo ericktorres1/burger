@@ -1,0 +1,22 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burgers that people like",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericktorres1/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Erick Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericktorres1/burger/issues"
+  },
+  "homepage": "https://github.com/ericktorres1/burger#readme"
+}
